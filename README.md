@@ -5,6 +5,11 @@
  The Azure SQL Database emulator, which is a containerized database for a desktop dev experience. Use your favorite client 
  OS and dev tools for cloud development without the cloud.*
  
+ Prerequisits to running well :
+ - Docker in windows was started
+ - dotnet6 SDK (include by itself the runtime) was installed
+ - VSCode
+ 
  ## Source code forked from:
  - [Drew Skwiers-Koballa  - Azure Friday](https://github.com/dzsquared/azure-friday)
  
@@ -16,3 +21,6 @@
  - "REST Client" extension by Huachao Mao (good to test http endpoints in VSCODE as a bit in POSTMAN) :
     - [Market place](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
     - [Github vscode-restclient] https://github.com/Huachao/vscode-restclient
+    
+ ## Note 03: the syntax of the json in the local.settings.local was important:
+ - to check it, see the file: **exampleof__local.settings.json** 
