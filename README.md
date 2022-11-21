@@ -7,7 +7,7 @@
  
  Prerequisits to running well :
  - Docker in windows was started
- - dotnet6 SDK (include by itself the runtime) was installed
+ - .net6 SDK (include by itself the runtime) was installed
  - VSCode
  
  ## Source code forked from:
