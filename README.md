@@ -24,3 +24,6 @@
     
  ## Note 03: the syntax of the json in the local.settings.local was important:
  - to check it, see the file: **exampleof__local.settings.json** 
+ 
+ ## TIPS VS CODE: 
+ - **Multi cursors** shortcut in vs code : **Ctrl+Shift+L** ;0)  (Tx to [stackoverflow](https://stackoverflow.com/questions/29953479/how-can-you-create-multiple-cursors-in-visual-studio-code))
