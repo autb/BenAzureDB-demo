@@ -1,0 +1,10 @@
+c:\Projects\AzureSQL\AzureDB-Demo\BenAzureDB-demo\bin\Debug\BenAzureDB-demo.dacpac
+c:\Projects\AzureSQL\AzureDB-Demo\BenAzureDB-demo\bin\Debug\BenAzureDB-demo.dll
+c:\Projects\AzureSQL\AzureDB-Demo\BenAzureDB-demo\bin\Debug\BenAzureDB-demo.pdb
+c:\Projects\AzureSQL\AzureDB-Demo\BenAzureDB-demo\obj\Debug\BenAzureDB-demo.sqlproj.AssemblyReference.cache
+c:\Projects\AzureSQL\AzureDB-Demo\BenAzureDB-demo\obj\Debug\Model.xml
+c:\Projects\AzureSQL\AzureDB-Demo\BenAzureDB-demo\obj\Debug\refactor.xml
+c:\Projects\AzureSQL\AzureDB-Demo\BenAzureDB-demo\obj\Debug\postdeploy.sql
+c:\Projects\AzureSQL\AzureDB-Demo\BenAzureDB-demo\obj\Debug\predeploy.sql
+c:\Projects\AzureSQL\AzureDB-Demo\BenAzureDB-demo\obj\Debug\BenAzureDB-demo.dll
+c:\Projects\AzureSQL\AzureDB-Demo\BenAzureDB-demo\obj\Debug\BenAzureDB-demo.pdb

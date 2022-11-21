@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MVvoaBNqz7F5L+3uFzfr/qRmQtyyWpeqkzP4LQo1DQLnq91S+iBmg46JnWknEGUDMs09NPUW1qL5iEfMuZzWYA==",
+  "success": true,
+  "projectFilePath": "c:\\Projects\\AzureSQL\\AzureDB-Demo\\BenAzureDB-demo\\BenAzureDB-demo.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bautran.FRSYMTRAX\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\bautran.FRSYMTRAX\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

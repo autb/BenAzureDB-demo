@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Projects\\AzureSQL\\AzureDB-Demo\\BenAzureDB-demo\\BenAzureDB-demo.sqlproj": {}
+  },
+  "projects": {
+    "c:\\Projects\\AzureSQL\\AzureDB-Demo\\BenAzureDB-demo\\BenAzureDB-demo.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Projects\\AzureSQL\\AzureDB-Demo\\BenAzureDB-demo\\BenAzureDB-demo.sqlproj",
+        "projectName": "BenAzureDB-demo",
+        "projectPath": "c:\\Projects\\AzureSQL\\AzureDB-Demo\\BenAzureDB-demo\\BenAzureDB-demo.sqlproj",
+        "packagesPath": "C:\\Users\\bautran.FRSYMTRAX\\.nuget\\packages\\",
+        "outputPath": "c:\\Projects\\AzureSQL\\AzureDB-Demo\\BenAzureDB-demo\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bautran.FRSYMTRAX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
