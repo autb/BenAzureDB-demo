@@ -1,7 +1,7 @@
 # BenAzureDB-demo :
  Example based on the code linked to the [video](https://youtu.be/3XgepwpBJP8?list=PLLasX02E8BPDT2Z2pdCHNCkENpcQWy5n6).
  
- *Drew Skwiers-Koballa ([@SysAdminDrew](https://twitter.com/SysAdminDrew)) shows Scott Hanselman ([@shanselman](https://twitter.com/@shanselman)) a new option for developing with Azure SQL Database: 
+ *Drew Skwiers-Koballa ([@SysAdminDrew](https://twitter.com/SysAdminDrew)) shows Scott Hanselman ([@shanselman](https://twitter.com/@shanselman), [https://hachyderm.io/@shanselman](https://hachyderm.io/@shanselman), [https://www.hanselman.com/blog/](https://www.hanselman.com/blog/)) a new option for developing with Azure SQL Database: 
  The Azure SQL Database emulator, which is a containerized database for a desktop dev experience. Use your favorite client 
  OS and dev tools for cloud development without the cloud.*
  
